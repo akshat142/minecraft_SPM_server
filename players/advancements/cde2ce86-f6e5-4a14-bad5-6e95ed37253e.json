@@ -14,6 +14,7 @@
       "minecraft:river": "2026-06-26 22:59:40 +0530",
       "minecraft:lukewarm_ocean": "2026-07-02 23:24:33 +0530",
       "minecraft:ocean": "2026-07-02 23:47:27 +0530",
+      "minecraft:jungle": "2026-07-18 03:48:09 +0530",
       "minecraft:sunflower_plains": "2026-06-26 23:38:50 +0530",
       "minecraft:cherry_grove": "2026-07-12 23:53:11 +0530",
       "minecraft:meadow": "2026-07-12 23:51:10 +0530",
@@ -3155,6 +3156,54 @@
   "minecraft:recipes/combat/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2026-07-14 04:27:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-07-18 01:58:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-07-18 01:58:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2026-07-18 03:09:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2026-07-18 03:09:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2026-07-18 03:09:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2026-07-18 03:50:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2026-07-18 03:50:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2026-07-18 03:50:35 +0530"
     },
     "done": true
   },
