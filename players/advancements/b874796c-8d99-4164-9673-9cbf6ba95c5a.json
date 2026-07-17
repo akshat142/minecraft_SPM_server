@@ -2390,12 +2390,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_helmet_dyed": {
-    "criteria": {
-      "has_leather_helmet": "2026-07-14 06:53:46 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2026-07-14 06:51:14 +0530"
@@ -2462,12 +2456,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_leggings_dyed": {
-    "criteria": {
-      "has_leather_leggings": "2026-07-14 06:53:46 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2026-07-14 06:51:14 +0530"
@@ -2501,6 +2489,36 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2026-07-14 06:51:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_helmet_dyed": {
+    "criteria": {
+      "has_leather_helmet": "2026-07-14 06:53:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_leggings_dyed": {
+    "criteria": {
+      "has_leather_leggings": "2026-07-14 06:53:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2026-07-17 23:00:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-07-17 23:00:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-07-17 23:00:09 +0530"
     },
     "done": true
   },

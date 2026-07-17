@@ -299,6 +299,7 @@
     "criteria": {
       "minecraft:pillager": "2026-07-05 00:01:30 +0530",
       "minecraft:skeleton": "2026-06-26 23:01:24 +0530",
+      "minecraft:piglin": "2026-07-17 23:35:00 +0530",
       "minecraft:zombie_horse": "2026-06-26 23:29:51 +0530",
       "minecraft:enderman": "2026-07-02 23:42:31 +0530",
       "minecraft:witch": "2026-07-14 01:37:47 +0530",
@@ -2323,6 +2324,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2026-07-17 23:32:24 +0530",
       "minecraft:nether_wastes": "2026-07-04 23:05:03 +0530"
     },
     "done": false
@@ -3185,33 +3187,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2026-07-14 03:34:22 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2026-07-14 01:41:39 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2026-07-14 01:42:12 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2026-07-14 03:34:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2026-07-14 01:42:12 +0530"
     },
     "done": true
   },
@@ -3233,6 +3211,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2026-07-14 01:41:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2026-07-14 01:42:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2026-07-14 01:42:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2026-07-14 01:42:12 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2026-07-14 02:28:07 +0530"
@@ -3245,15 +3247,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_rail": "2026-07-14 01:42:12 +0530"
+      "has_emerald": "2026-07-14 03:34:22 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_minecart": "2026-07-14 01:41:39 +0530"
+      "traded": "2026-07-14 03:34:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-07-17 23:31:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-07-17 23:31:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2026-07-17 23:31:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-07-17 23:31:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-07-17 23:31:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2026-07-17 23:31:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-07-17 23:31:03 +0530"
     },
     "done": true
   },
