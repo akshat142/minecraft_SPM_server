@@ -3563,5 +3563,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_helmet": "2026-07-28 23:42:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+    "criteria": {
+      "has_copper_helmet": "2026-07-28 23:42:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_shelf": {
+    "criteria": {
+      "has_stripped_acacia_log": "2026-07-29 00:22:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-07-29 00:22:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2026-07-29 00:22:28 +0530"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }
