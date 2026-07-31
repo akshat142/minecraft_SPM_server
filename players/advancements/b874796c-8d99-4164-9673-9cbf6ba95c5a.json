@@ -19,6 +19,7 @@
       "minecraft:cherry_grove": "2026-07-13 00:44:47 +0530",
       "minecraft:sunflower_plains": "2026-07-13 02:32:20 +0530",
       "minecraft:river": "2026-07-12 23:27:36 +0530",
+      "minecraft:lukewarm_ocean": "2026-07-31 02:23:52 +0530",
       "minecraft:birch_forest": "2026-07-14 05:48:59 +0530",
       "minecraft:savanna": "2026-07-13 00:39:36 +0530",
       "minecraft:plains": "2026-07-12 23:27:20 +0530"
@@ -3041,12 +3042,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2026-07-30 01:46:37 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2026-07-30 01:24:35 +0530"
@@ -3068,12 +3063,6 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2026-07-30 01:24:35 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2026-07-30 02:46:08 +0530"
     },
     "done": true
   },
@@ -3104,6 +3093,18 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2026-07-30 01:24:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2026-07-30 01:46:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-07-30 02:46:08 +0530"
     },
     "done": true
   },
