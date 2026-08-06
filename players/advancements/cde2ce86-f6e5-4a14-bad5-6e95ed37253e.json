@@ -383,19 +383,25 @@
       "golden_carrot": "2026-08-04 23:06:46 +0530",
       "spider_eye": "2026-06-27 00:58:28 +0530",
       "cooked_chicken": "2026-06-27 01:15:40 +0530",
-      "cooked_salmon": "2026-08-05 02:48:35 +0530"
+      "enchanted_golden_apple": "2026-08-07 03:13:44 +0530",
+      "cooked_salmon": "2026-08-05 02:48:35 +0530",
+      "pumpkin_pie": "2026-08-06 23:40:39 +0530",
+      "carrot": "2026-08-07 02:51:32 +0530"
     },
     "done": false
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2026-07-13 01:30:09 +0530",
-      "minecraft:cave_spider": "2026-08-04 23:38:30 +0530",
       "minecraft:skeleton": "2026-06-26 23:03:54 +0530",
       "minecraft:zombified_piglin": "2026-07-13 00:33:03 +0530",
-      "minecraft:enderman": "2026-07-02 23:58:30 +0530",
       "minecraft:witch": "2026-08-05 00:48:12 +0530",
+      "minecraft:ravager": "2026-08-07 00:02:06 +0530",
+      "minecraft:cave_spider": "2026-08-04 23:38:30 +0530",
+      "minecraft:vindicator": "2026-08-06 23:58:32 +0530",
+      "minecraft:enderman": "2026-07-02 23:58:30 +0530",
       "minecraft:spider": "2026-06-26 23:10:14 +0530",
+      "minecraft:vex": "2026-08-07 00:06:19 +0530",
       "minecraft:zombie": "2026-06-26 23:02:29 +0530",
       "minecraft:creeper": "2026-06-26 23:29:56 +0530",
       "minecraft:drowned": "2026-07-04 23:48:34 +0530",
@@ -3328,6 +3334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-08-05 02:03:26 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2026-08-05 02:03:57 +0530"
@@ -3346,9 +3358,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "minecraft:recipes/misc/leather_helmet_dyed": {
     "criteria": {
-      "has_redstone_torch": "2026-08-05 02:03:26 +0530"
+      "has_leather_helmet": "2026-08-07 00:10:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2026-08-06 23:21:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-08-06 23:32:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-08-06 23:58:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2026-08-07 00:08:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-08-06 23:18:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-08-07 00:08:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_leggings_dyed": {
+    "criteria": {
+      "has_leather_leggings": "2026-08-07 03:40:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-08-07 03:29:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2026-08-07 00:08:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-08-07 00:08:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2026-08-07 03:13:32 +0530"
     },
     "done": true
   },
