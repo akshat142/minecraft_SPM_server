@@ -301,6 +301,7 @@
     "criteria": {
       "minecraft:pillager": "2026-07-05 00:01:30 +0530",
       "minecraft:skeleton": "2026-06-26 23:01:24 +0530",
+      "minecraft:phantom": "2026-08-09 04:07:26 +0530",
       "minecraft:zombified_piglin": "2026-08-05 01:51:07 +0530",
       "minecraft:witch": "2026-07-14 01:37:47 +0530",
       "minecraft:ravager": "2026-08-07 00:05:20 +0530",
@@ -3725,15 +3726,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_helmet_dyed": {
+  "minecraft:adventure/throw_trident": {
     "criteria": {
-      "has_leather_helmet": "2026-08-07 00:23:07 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/minecraft_trials_edition": {
-    "criteria": {
-      "minecraft_trials_edition": "2026-08-07 02:36:09 +0530"
+      "shot_trident": "2026-08-06 23:21:27 +0530"
     },
     "done": true
   },
@@ -3743,21 +3738,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_leggings_dyed": {
+  "minecraft:recipes/misc/leather_helmet_dyed": {
     "criteria": {
-      "has_leather_leggings": "2026-08-07 03:35:57 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/throw_trident": {
-    "criteria": {
-      "shot_trident": "2026-08-06 23:21:27 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
-    "criteria": {
-      "has_tuff_brick_slab": "2026-08-07 03:06:46 +0530"
+      "has_leather_helmet": "2026-08-07 00:23:07 +0530"
     },
     "done": true
   },
@@ -3767,9 +3750,9 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
-      "elytra": "2026-08-07 03:31:18 +0530"
+      "minecraft_trials_edition": "2026-08-07 02:36:09 +0530"
     },
     "done": true
   },
@@ -3779,15 +3762,165 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+    "criteria": {
+      "has_tuff_brick_slab": "2026-08-07 03:06:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2026-08-07 03:15:20 +0530"
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-08-07 03:31:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_leggings_dyed": {
+    "criteria": {
+      "has_leather_leggings": "2026-08-07 03:35:57 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/who_needs_rockets": {
     "criteria": {
       "who_needs_rockets": "2026-08-07 03:39:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/overoverkill": {
+    "criteria": {
+      "overoverkill": "2026-08-09 03:02:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chain": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-08-09 03:42:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_sword": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-08-09 04:19:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_boots": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor_dyed": {
+    "criteria": {
+      "has_leather_horse_armor": "2026-08-09 04:27:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-09 04:10:05 +0530"
     },
     "done": true
   },
